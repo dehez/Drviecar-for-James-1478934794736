@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Drviecar for James
+  host: Drviecar-for-James
+  disk_quota: 1024M
